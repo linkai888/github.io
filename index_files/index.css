@@ -1,0 +1,63 @@
+#cs {
+
+		position: fixed;
+
+		right: 60px;
+
+		bottom: 60px;
+
+		display: block;
+
+		cursor: pointer;
+
+	}
+
+
+
+	.gallery {
+
+		position: relative;
+
+	}
+
+
+
+	#AndroidCode img {
+
+		width: 100%;
+
+	}
+
+
+
+	#IosCode img {
+
+		width: 50%;
+
+	}
+
+
+
+	.contact {
+
+		position: absolute;
+
+		width: 100%;
+
+		top: 0;
+
+		left: 0;
+
+		height: 200px;
+
+	}
+
+
+
+	.container .box {
+
+		text-align: center;
+
+		margin-top: 30px;
+
+	}

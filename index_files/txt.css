@@ -1,0 +1,42 @@
+.scroll_warp {
+    display: flex;
+    line-height: 26px;
+    justify-content: center;
+    color: red;
+    font-size: 22px;
+}
+.scroll_warp>.warp{
+    padding:0px 10px;
+    border-radius: 4px;
+    background-color: #eee;
+}
+.scroll_warp>.dev1{
+    display: flex;
+    align-items: center;
+}
+.scroll_warp>div>span {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    color: #1296db;
+ 
+}
+
+.pad_right {
+    padding-right: 30em;
+}
+
+#scroll_div {
+    height: 26px;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 535px;
+}
+
+#scroll_begin,
+#scroll_end {
+    display: inline;
+}
+
+#sss {
+    width: 100px;
+}
